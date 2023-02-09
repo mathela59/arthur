@@ -1,0 +1,27 @@
+div {
+font-family:Arial;
+color: white;
+
+}
+h2 {
+    color: red;
+}
+a{
+    color: blue;
+}
+a:hover {
+background-color: blueviolet;
+
+}
+
+body {
+    background-color: black;
+    color: white;   
+}
+
+.error {
+    background-color: red;
+}
+input {
+    background-color: white;
+}
